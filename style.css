@@ -1,0 +1,27 @@
+
+.profile-container{
+    background-color: #fff;
+    
+}
+.profile-container-inner{
+    padding:0 4% 10px;
+}
+.profile-pic{
+    width: 150px;
+    border-radius: 50%;
+    margin-top: -75px;
+    padding: 5px;
+    background: #fff;
+}
+.profile-container h1{
+    font-size: 28px;
+    font-weight: 600;
+    color:#222;
+}
+.profile-container b{
+    font-weight: 500;
+
+}
+.profile-container p{
+    margin-top: 5px;
+}
